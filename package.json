@@ -10,5 +10,17 @@
     "preinstall": " ./check.bash preinstall ",
     "install": "    ./check.bash install    ",
     "postinstall": "./check.bash postinstall"
-  }
+  },
+  "keywords": [
+    "security",
+    "script",
+    "scripts",
+    "enable",
+    "enabled",
+    "disable",
+    "disabled",
+    "preinstall",
+    "install",
+    "postinstall"
+  ]
 }
