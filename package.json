@@ -1,7 +1,7 @@
 {
   "name": "are-scripts-enabled",
   "version": "1.0.1",
-  "description": "Dependency to test whether yarn scripts are enabled.",
+  "description": "Test if npm/yarn install scripts are enabled.",
   "main": "index.js",
   "repository": "git@github.com:alxndrsn/nodejs-are-scripts-enabled.git",
   "author": "alxndrsn <alxndrsn>",
