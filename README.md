@@ -17,3 +17,7 @@ The basic usage is to add this package as a dependency and see if the installati
 ## `yarn`
 
 	yarn add are-scripts-enabled
+
+## `npm`
+
+	npm install are-scripts-enabled
