@@ -21,3 +21,10 @@ The basic usage is to add this package as a dependency and see if the installati
 ## `npm`
 
 	npm install are-scripts-enabled
+
+
+# Related Packages
+
+* https://www.npmjs.com/package/@lavamoat/preinstall-always-fail
+* https://www.npmjs.com/package/can-i-ignore-scripts
+* https://www.npmjs.com/package/npm-install-security-check
