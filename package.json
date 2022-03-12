@@ -7,8 +7,8 @@
   "author": "alxndrsn <alxndrsn>",
   "license": "MIT",
   "scripts": {
-    "preinstall": " echo '!!! UNEXPECTED SCRIPT RUN: preinstall ' && false",
-    "install": "    echo '!!! UNEXPECTED SCRIPT RUN: install    ' && false",
-    "postinstall": "echo '!!! UNEXPECTED SCRIPT RUN: postinstall' && false"
+    "preinstall": " ./check.bash preinstall ",
+    "install": "    ./check.bash install    ",
+    "postinstall": "./check.bash postinstall"
   }
 }
